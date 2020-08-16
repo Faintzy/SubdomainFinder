@@ -1,3 +1,14 @@
+
+"""										"""
+#									      #
+#			  SubdomainFinder			  #	
+#										  #
+#  	  			16.08.2020				  #
+# 										  #
+#	by: https://github.com/sudoGabriel	  #
+#										  #		
+"""										"""
+
 import requests as req
 import sys
 import time
