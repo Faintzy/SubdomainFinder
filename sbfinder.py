@@ -1,11 +1,11 @@
 
 """										"""
-#									      #
-#			  SubdomainFinder			  #	
+#									          #
+#			          SubdomainFinder			          #	
 #										  #
-#  	  			16.08.2020				  #
+#  	  			    16.08.2020				  	  #
 # 										  #
-#	by: https://github.com/sudoGabriel	  #
+#			by: https://github.com/sudoGabriel	  		  #
 #										  #		
 """										"""
 
