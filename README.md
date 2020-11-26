@@ -9,4 +9,4 @@ or
 python3 sbfinder.py help
 ```
 
-https://github.com/sudoGabriel
+https://github.com/Faintzy
